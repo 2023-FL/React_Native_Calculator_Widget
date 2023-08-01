@@ -12,4 +12,5 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 
 # A Simple React Native program for mobile widget app
 
-(Image)![image](https://github.com/2023-FL/React_Native_Calculator_Widget/assets/57984642/e90c0aaf-6829-428b-a5a2-616ee60966f5)
+![image](https://github.com/2023-FL/React_Native_Calculator_Widget/assets/57984642/67c910b9-78b1-4f96-95b0-663d00f61726)
+
